@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmo6Sr4mCAx9O52EbHVdngACfouyOMav5P1/pLkTbTqdqHrDX/DmI41CzX+pukVfXKn1V1DEvZyIF58An7lmJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nove0\\Desktop\\game\\FinalGame\\FinalGame\\FinalGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nove0\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\nove0\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

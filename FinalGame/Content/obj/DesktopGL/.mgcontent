@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Fonts/FontUI.spritefont</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Fonts/GameText.spritefont</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/AttackButton.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Background.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BLUEArcher.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BLUEArrow.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BLUEAxe.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BLUEAxeman.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BlueCastle1.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BLUEFireball.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BlueFlag.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BLUESpear.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BLUESpearman.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BLUEThunder.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BLUEWizard.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/BLUEWizardBullet.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Bmark/BLUEArcher.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Bmark/BLUEAxeman.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Bmark/BLUESpearman.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Bmark/BLUEWizard.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/ChaBoard.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Ground.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Item.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/ItemHeal.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/ItemMeteor.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/maxHP.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/minHP.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/PopUpBluewin.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/PopUpRedwin.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/REDArcher.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/REDArrow.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/REDAxe.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/REDAxeman.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/RedCastle1.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/REDFireball.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/RedFlag.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/REDSpear.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/REDSpearman.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/REDThunder.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/REDWizard.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/RedWizardBullet.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Rmark/REDArcher.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Rmark/REDAxeman.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Rmark/REDSpearman.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/Rmark/REDWizard.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/StartPage.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/TextTurnBlue.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Images/TextTurnRed.png</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Song/_bgm.mp3</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Song/_bgp.mp3</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Song/Archershoot.wav</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Song/Axeshoot.wav</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Song/GetItem.wav</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Song/SongWin.wav</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Song/SpearShoot.wav</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Song/WariorDie.wav</File>
+    <File>C:/Users/tumpa/Desktop/FinalGame/FinalGame/Content/Song/WizardShoot.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
